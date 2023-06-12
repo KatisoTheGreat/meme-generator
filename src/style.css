@@ -63,3 +63,11 @@ main {
   color: white;
   border: none;
 }
+
+/* Image section */
+
+.meme-image {
+  max-width: 100%;
+  padding: 20px;
+  align-items: center;
+}
